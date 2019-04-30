@@ -966,7 +966,7 @@ ul.about {
     -webkit-border-radius: 99em;
     -moz-border-radius: 99em;
     border-radius: 99em;
-    background-image: url('../images/img/front.png');
+    background-image: url('../images/img/edwinvega.png');
     margin-top: 25px;
     margin-bottom: 7px;
 }
@@ -1029,6 +1029,10 @@ ul.about {
     -moz-transition: all .3s ease-in;
     -o-transition: all .3s ease-in;
     transition: all .3s ease-in;
+}
+
+#profile_social .fa-drupal {
+	
 }
 
 #profile_social a:hover{
